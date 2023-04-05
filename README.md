@@ -58,7 +58,7 @@ In this step I created a NSG (network security group) inbound rule to deny all t
 <img src="https://i.imgur.com/mtkGa1j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The non stop ping has now been timed out because of the rule that I created which is now not a request, recieved but is not just a request with no recieves.
+The non stop ping has now been timed out because of the rule that I created which is now not a request, reply but is not just a request with no replies.
 </p>
 <br />
 
