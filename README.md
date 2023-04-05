@@ -85,7 +85,7 @@ Here I was creatign some traffic to inspect for SSH.
 <img src="https://i.imgur.com/d4hehWO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Here I am basically asking DNS(domain network server) what's google's IP address.
+Here I am basically asking DNS(domain name system) what's google's IP address.
 </p>
 <br />
 
