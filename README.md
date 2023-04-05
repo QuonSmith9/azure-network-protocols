@@ -26,7 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 1- Downloaded Wireshark
 - Step 2- Use Powershell
 - Step 3- Creating a NSG rule
-- Step 4
+- Step 4- Request timed out
 
 <h2>Actions and Observations</h2>
 
@@ -50,15 +50,15 @@ Here I used Powershell to ping my second virtual machine's private IP address to
 <img src="https://i.imgur.com/Zgk1I2P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this steo I created a NSG (network security group) inbound rule to deny all traffic for ICMP.
+In this step I created a NSG (network security group) inbound rule to deny all traffic for ICMP.
 </p>
 <br />
   
   <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mtkGa1j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The non stop ping has now been timed out because of the rule that I created which is now not a request, recieved but is not just a request with no recieves.
 </p>
 <br />
 
