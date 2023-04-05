@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 3- Creating a NSG rule
 - Step 4- Request timed out
 - Step 5- SSH Protocol
-- Step 6-
+- Step 6- SSH Traffic
 - Step 7-
 - Step 8-
 <h2>Actions and Observations</h2>
@@ -74,10 +74,10 @@ In this step, I am going to SSH( secure shell) into my second virtual machine vi
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3LfHa4s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I was creatign some traffic to inspect for SSH.
 </p>
 <br />
 
