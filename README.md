@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Step 1- Downloaded Wireshark
-- Step 2
+- Step 2- Use Powershell
 - Step 3
 - Step 4
 
@@ -39,10 +39,10 @@ I had recently installed an app name Wireshark, wireshark is a protocol analayze
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/G4Fi5k8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here I used Powershell to ping my second virtual machine's private IP address to get some connectivity to get some traffic going under ICMP to observe on Wireshark.
 </p>
 <br />
 
